@@ -1,9 +1,9 @@
-label: 1st Conjugation
+label: 1st Conjugation(動詞の第1活用)
 output: latin-1.pdf
 updated: 17 Jul 2018
 example_word: am[ō], am[āre], {amāv}[ī], {amāt}[us]
 left:
-  - title: Active Indicative
+  - title: Active Indicative(能動態✕直接法)
     fill: "#cb202c"
     groups:
       - "Present | am[ō] | am[ās] | am[at] | am[āmus] | am[ātis] | am[ant]"
@@ -13,7 +13,7 @@ left:
       - "Pluperfect | {amāv}[eram] | {amāv}[erās] | {amāv}[erat] | {amāv}[erāmus] | {amāv}[erātis] | {amāv}[erant]"
       - "Future Perfect | {amāv}[erō] | {amāv}[eris] | {amāv}[erit] | {amāv}[erimus] | {amāv}[eritis] | {amāv}[erint]"
 
-  - title: Passive Indicative
+  - title: Passive Indicative(受動態✕直接法)
     fill: "#cb202c"
     groups:
       - "Present | am[or] | am[āris] | am[ātur] | am[āmur] | am[āminī] | am[antur]"
@@ -23,7 +23,7 @@ left:
       - "Pluperfect | {amāt}[us eram] | {amāt}[us erās] | {amāt}[us erat] | {amāt}[ī erāmus] | {amāt}[ī erātis] | {amāt}[ī erant]"
       - "Future Perfect | {amāt}[us erō] | {amāt}[us eris] | {amāt}[us erit] | {amāt}[ī erimus] | {amāt}[ī eritis] | {amāt}[ī erunt]"
 
-  - title: Active Subjunctive
+  - title: Active Subjunctive(能動態✕接続法)
     fill: "#2075cb"
     groups:
       - "Present | am[em] | am[ēs] | am[et] | am[ēmus] | am[ētis] | am[ent]"
@@ -33,7 +33,7 @@ left:
       - "Pluperfect | {amāv}[issem] | {amāv}[issēs] | {amāv}[isset] | {amāv}[issēmus] | {amāv}[issētis] | {amāv}[issent]"
       - " | | | | | | "
 
-  - title: Passive Subjunctive
+  - title: Passive Subjunctive(受動態✕接続法)
     fill: "#2075cb"
     groups:
       - "Present | am[er] | am[ēris] | am[ētur] | am[ēmur] | am[ēminī] | am[entur]"
@@ -44,27 +44,27 @@ left:
       - " | | | | | | "
 
 right:
-  - title: Infinitive
+  - title: Infinitive(不定法)
     fill: "#42b314"
     groups:
       - "Present | am[āre] | am[ārī]"
       - "Future | {amāt}[ūrus esse] | {amāt}[um īrī]"
       - "Perfect | {amāv}[isse] | {amāt}[us esse]"
 
-  - title: Participle
+  - title: Participle(分詞)
     fill: "#b2640a"
     groups:
       - "Present | am[āns] |"
       - "Future | {amāt}[ūrus] | am[andus]"
       - "Perfect | | {amāt}[us]"
 
-  - title: Gerund
+  - title: Gerund(動名詞)
     fill: "#a020cb"
     type: headerless
     groups:
       - "| am[andī] | am[andō] | am[andum] | am[andō]"
 
-  - title: Imperative
+  - title: Imperative(命令法)
     fill: "#04aba5"
     groups:
       - "singular | am[ā] | am[āre]"
